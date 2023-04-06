@@ -1,0 +1,3 @@
+[submodule "pixoo-rest"]
+	path = pixoo-rest
+	url = https://github.com/CalebVanDerMaas/pixoo-rest.git
